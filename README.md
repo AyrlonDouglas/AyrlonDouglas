@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyrlonDouglas
-- 👀 I’m interested in I'm interested in becoming always better
-- 🌱 I’m currently learning HTML, CSS and JS
+- 👀 I'm interested in becoming always better
+- 🌱 I’m currently learning HTML, CSS, JS and Angular
 - 💞️ I’m looking to collaborate on projects that help me learn more
 
 <!---
