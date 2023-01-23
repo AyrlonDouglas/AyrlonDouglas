@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyrlonDouglas
 - 👀 I'm interested in becoming always better
-- 🌱 I’m currently getting deeper in React.js
+- 🌱 I’m currently getting deeper in React.js and Nest.js
 - 💞️ I’m looking to collaborate on projects that help me learn more
 
 <!---
