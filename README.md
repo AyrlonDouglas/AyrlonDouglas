@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I currently work at Salvus Tecnologia as a systems development analyst<br>👯 I’m looking to collaborate on projects that help me learn more<br>🌱 I’m currently getting deeper in React.js, Nest.js and TypeORM<br>⚡ Fun fact : I entered the world of technology in an unpretentious way when I was studying subjects outside my routine as a veterinarian (yes, I have a Bachelor of Veterinary Medicine from UFRPE)
+🔭 I currently work at Salvus Tecnologia as a systems development analyst<br>👯 I’m looking to collaborate on projects that help me learn more<br>🌱 I'm currently learning more about React.js, Nest.js and TypeORM and studying higher in internet systems technology<br>⚡ Fun fact : I entered the world of technology in an unpretentious way when I was studying subjects outside my routine as a veterinarian (yes, I have a Bachelor of Veterinary Medicine from UFRPE)
 
 
 ## 🌐 Socials:
